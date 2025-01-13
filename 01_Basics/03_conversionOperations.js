@@ -26,5 +26,20 @@ let boolLogged = Boolean(isLoggedIn);
 let bool = false;
 let stringbool = String(bool);
 
-console.log(stringbool);
+// console.log(stringbool);
 
+// ***************************** OPERATIONS **************************************
+
+let val = 3
+let negVal = -val
+console.log(negVal);
+
+let s1 = "Hello,"
+let s2 = " Gurnoor"
+let s3 = s1 + s2
+console.log(s3);
+
+console.log("1" + 2);
+console.log(1 + "2");
+console.log(1 + 1 + "2" + 3 + 9);
+console.log("2" + true)
